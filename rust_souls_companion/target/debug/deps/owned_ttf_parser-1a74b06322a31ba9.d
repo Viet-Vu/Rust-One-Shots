@@ -1,0 +1,10 @@
+C:\Users\VietJ\CLionProjects\rust_souls_companion\target\debug\deps\owned_ttf_parser-1a74b06322a31ba9.rmeta: C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Users\VietJ\CLionProjects\rust_souls_companion\target\debug\deps\libowned_ttf_parser-1a74b06322a31ba9.rlib: C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Users\VietJ\CLionProjects\rust_souls_companion\target\debug\deps\owned_ttf_parser-1a74b06322a31ba9.d: C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs:
+C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs:
+C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs:
+C:\Users\VietJ\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs:
